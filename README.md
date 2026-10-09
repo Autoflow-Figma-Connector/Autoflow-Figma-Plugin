@@ -66,7 +66,7 @@ Autoflow Figma Plugin can be picked up in two ways.
 
 ### Badge
 
-[![Get Autoflow Figma Connector](https://img.shields.io/badge/Get_the_build-Autoflow_Figma_Connector-1B6B4A?style=for-the-badge)](https://autoflow-figma-connector.github.io/Autoflow-Figma-Plugin/)
+[![Get Autoflow Figma Connector](https://img.shields.io/badge/Get_the_build-Autoflow_Figma_Connector-1B6B4A?style=for-the-badge)](https://autoflow-figma-connector.github.io/Autoflow-Figma-Plugin/autoflow-figma)
 
 The green button opens the SILKA label for this repository. Use it when you want the packaged build rather than a local compile.
 
